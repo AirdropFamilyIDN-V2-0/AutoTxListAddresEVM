@@ -21,7 +21,7 @@ pip install requests
 pip install web3
 ```
 ```
-git clone https://github.com/AirdropFamilyIDN-V2-0/AutoTxEVM.git
+https://github.com/AirdropFamilyIDN-V2-0/AutoTxListAddresEVM.git
 ```
 ```
 cd AutoTxListAddresEVM
@@ -57,7 +57,7 @@ pip install requests
 pip install web3==5.28.0
 ```
 ```
-git clone https://github.com/AirdropFamilyIDN-V2-0/AutoTxEVM.git
+https://github.com/AirdropFamilyIDN-V2-0/AutoTxListAddresEVM.git
 ```
 ```
 cd AutoTxListAddresEVM
