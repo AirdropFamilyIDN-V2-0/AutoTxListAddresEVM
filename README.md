@@ -63,7 +63,7 @@ https://github.com/AirdropFamilyIDN-V2-0/AutoTxListAddresEVM.git
 cd AutoTxListAddresEVM
 ```
 ```
-python txevm.pyc
+python txevm.py
 ```
 # NOTED
 - Bot di gunakan untuk nyebar fee Ke akun Tuyul Kalian
