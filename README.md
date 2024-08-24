@@ -28,7 +28,7 @@ cd AutoTxListAddresEVM
 ```
 # Edit File listaddress Masukin Address Kalian
 ```
-python txevm.pyc
+python txevm.py
 ```
 # Android
 - Termux fdroid : https://f-droid.org/F-Droid.apk
